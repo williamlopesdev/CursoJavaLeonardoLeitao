@@ -13,6 +13,6 @@ public class Temperatura {
 		double C = (F - ajuste) * multi;
 		
 		System.out.println(C);
-	
+		
 	}
 }
