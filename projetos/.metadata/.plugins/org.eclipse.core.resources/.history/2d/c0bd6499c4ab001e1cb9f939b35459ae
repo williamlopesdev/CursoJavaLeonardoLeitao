@@ -6,7 +6,7 @@ public class Inferencia {
 		double a = 4.5;
 		System.out.println(a);
 		
-		var b = 4.5;  //a inferencia vai interpretar o tipo da variavel
+		var b = 4.5;
 		
 		System.out.println(b);
 	}
